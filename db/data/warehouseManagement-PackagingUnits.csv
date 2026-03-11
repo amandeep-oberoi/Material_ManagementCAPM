@@ -1,0 +1,3 @@
+ID,type,capacity,material_ID,createdAt,createdBy,modifiedAt,modifiedBy
+17990891-05ee-4594-9fa4-cae1fa1872e5,type-17990891,25,13778948-3886-4925-b8ac-b735c3d16ab1,2010-08-27T00:00:00.000Z,createdBy.apluz@example.org,2008-06-26T00:00:00.000Z,modifiedBy.apluz@example.com
+17990892-07b2-4253-954d-c3724c8833b6,type-17990892,40,13778948-3886-4925-b8ac-b735c3d16ab1,2019-02-02T00:00:00.000Z,createdBy.aplv0@example.net,2018-08-22T00:00:00.000Z,modifiedBy.aplv0@example.net

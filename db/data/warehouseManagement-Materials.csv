@@ -1,0 +1,6 @@
+ID,materialID,storageBin,materialDescription,supplier_ID,createdAt,createdBy,modifiedAt,modifiedBy
+13778944-ef96-4548-ac4d-37760d50c35d,84,storageBin-13778944,materialDescription-13778944,30041617-f4ba-4fac-815e-bb058889867b,2015-10-28T00:00:00.000Z,createdBy.87bwg@example.com,2019-09-28T00:00:00.000Z,modifiedBy.87bwg@example.net
+13778945-d122-478a-a07a-f1b394479e68,46,storageBin-13778945,materialDescription-13778945,30041617-f4ba-4fac-815e-bb058889867b,2021-04-22T00:00:00.000Z,createdBy.87bwh@example.org,2003-05-22T00:00:00.000Z,modifiedBy.87bwh@example.com
+13778946-5d44-4f7f-9d77-edc88e78f840,99,storageBin-13778946,materialDescription-13778946,30041617-f4ba-4fac-815e-bb058889867b,2005-07-21T00:00:00.000Z,createdBy.87bwi@example.org,2010-04-04T00:00:00.000Z,modifiedBy.87bwi@example.com
+13778947-2f76-44bb-a5ef-9ae1d6321256,52,storageBin-13778947,materialDescription-13778947,30041617-f4ba-4fac-815e-bb058889867b,2010-11-11T00:00:00.000Z,createdBy.87bwj@example.org,2004-03-02T00:00:00.000Z,modifiedBy.87bwj@example.com
+13778948-3886-4925-b8ac-b735c3d16ab1,69,storageBin-13778948,materialDescription-13778948,30041617-f4ba-4fac-815e-bb058889867b,2021-07-28T00:00:00.000Z,createdBy.87bwk@example.net,2022-11-08T00:00:00.000Z,modifiedBy.87bwk@example.net
