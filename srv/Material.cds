@@ -5,3 +5,7 @@ service ManagementService{
  entity Suppliers as projection on warehouse.Suppliers;
  entity PackagingUnits as projection on warehouse.PackagingUnits;
 }
+
+annotate ManagementService.Materials with @odata.draft.enabled;
+annotate ManagementService.Suppliers with @odata.draft.enabled;
+annotate ManagementService.PackagingUnits with @odata.draft.enabled;

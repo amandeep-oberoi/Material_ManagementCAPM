@@ -13,6 +13,7 @@ entity Materials : cuid, managed {
     packagingUnits : Composition of many PackagingUnits on packagingUnits.material = $self;
 }
 
+
 entity Suppliers : cuid, managed {
     name      : String;
     materials : Association to many Materials
